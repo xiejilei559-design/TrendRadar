@@ -70,6 +70,15 @@ jobs:
             echo "⚠️ api/trends.json 不存在"
           fi
 
+
+      - name: Save daily trend snapshot
+        run: |
+          DATE=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          TIME=$(TZ=Asia/Shanghai date +%H%M)
+          mkdir -p output/$DATE
+          if [ -f api/trends.json ]; then
+            cp api/trends.json output/$DATE/trends_$TIME.json
+          fi
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Actions'
