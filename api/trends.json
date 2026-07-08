@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-08T11:17:09.949412+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-07-08T11:49:38.877259+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "挪威队多人生病 主帅咳嗽不停",
+          "url": "https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E9%98%9F%E5%A4%9A%E4%BA%BA%E7%94%9F%E7%97%85+%E4%B8%BB%E5%B8%85%E5%92%B3%E5%97%BD%E4%B8%8D%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 11时17分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
