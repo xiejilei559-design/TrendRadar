@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:49:38.877259+08:00",
+  "generated_at": "2026-07-08T11:55:38.693956+08:00",
   "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
@@ -17,6 +17,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时51分 ~ 11时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "企业研发制冷马甲 穿上直降8-15℃",
+          "url": "https://www.toutiao.com/trending/7659273721589481514/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "熟睡",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "别为了一顿饭叫醒熟睡的人",
+          "url": "https://www.toutiao.com/trending/7659748056838225946/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 11时55分]"
         }
       ]
     }
