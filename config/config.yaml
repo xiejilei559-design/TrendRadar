@@ -98,4 +98,13 @@ platforms:
     name: "36氪"
   - id: "sina"
     name: "新浪新闻"
+  - id: "douban"
+    name: "豆瓣"
+  - id: "tencent"
+    name: "腾讯新闻"
+  - id: "ithome"
+    name: "IT之家"
+  - id: "sspai"
+    name: "少数派"
+
 
